@@ -37,4 +37,4 @@
 8. 자신의 깃허브로 돌아가서 `Compare & pull request` 를 눌러 원본 Repo에 반영을 요청한다.
 9. 누르면 Pull Request 양식이 뜨는데 그 양식은 위 규칙을 참고 바람
 10. 양식 바로 위에 Able to merge가 쓰여있으면 오케이!
-11. 
+11. Create Pull Request 누르기
