@@ -89,6 +89,6 @@ git commit -m 'code_Jiho_BOJ_10000'
    1. 여기서 커밋내용은 `위 규칙` 을 참고 바람
 7. 자신의 깃허브로 돌아가서 `Compare & pull request` 를 눌러 원본 Repo에 반영을 요청한다.
 8. 누르면 Pull Request 양식이 뜨는데 그 양식은 `위 규칙` 을 참고 바람
-9. 양식 바로 위에 Able to merge가 쓰여있으면 오케이!
-10. Create Pull Request 누르기
+9. 양식 바로 위에 `Able to merge` 가 쓰여있으면 오케이!
+10. `Create Pull Request`  누르기
 
