@@ -84,7 +84,7 @@ git commit -m 'code_Jiho_BOJ_10000'
 2. 본인의 이름 파일로 이동
 3. `git checkout -b <브랜치명>` 으로 새로운 브랜치를 생성하여 원본에 영향이 없게 한다.
 4. `git fetch upstream` 으로 Upstream Repo에 변경이 있었는지 확인
-5. 있었다면 `git pull` 을 실행시켜 똑같이 반영시킨다.
+5. 있었다면 `git pull` 을 실행시켜 똑같이 반영시킨다. 중요!!!!
 6. 작업한 파일을 `git add <파일명>` , `git commit -m '<커밋내용>'` , `git push origin <본인이 생성한 브랜치 이름>` 순서로 입력하여 문제풀이 파일을 업로드한다.
    1. 여기서 커밋내용은 `위 규칙` 을 참고 바람
 7. 자신의 깃허브로 돌아가서 `Compare & pull request` 를 눌러 원본 Repo에 반영을 요청한다.
